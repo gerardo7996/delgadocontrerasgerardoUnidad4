@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(320deg, #D50000, #E65100, #FFFF00);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h4 {
+    font-family: 'Century Gothic';
+    font-style: initial;
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+.mt-3, h5 {
+    font-family: 'Century Gothic';
+    font-style: initial;
+    font-size: 22px;
+    font-weight: normal;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 15px;
+}
+
+.navbar-expand-lg {
+    background-color: #262626;
+}
+
+.navbar-brand, span {
+    font-family: 'Century Gothic';
+    color: #FFD600;
+    font-weight: 600;
+    text-align: left;
+}
+
+.nav-link, a {
+    font-family: 'Century Gothic';
+    color: #FFD600;
+    font-weight: 600;
+    text-align: left;
+}
+
+.btn-outline-warning {
+    border-style: groove;
+    border-color: #FFD600;
+    border-radius: 7px;
+    font-family: 'Century Gothic';
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFD600;
+    text-align: center;
+}
+
+.btn-outline-warning:hover {
+    border-style: groove;
+    border-color: #FFD600;
+    border-radius: 7px; 
+    background: linear-gradient(320deg, #D50000, #E65100, #FFFF00);
+    color: black;
+    font-family: 'Century Gothic';
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn-danger {
+    border-style: groove;
+    border-color: #FF5252;
+    background-color: #B71C1C;
+    border-radius: 7px;
+    font-family: 'Century Gothic';
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.btn-danger:hover {
+    border-style: groove;
+    border-color: #D81B60;
+    border-radius: 7px;
+    background: linear-gradient(320deg, #FF80AB,#F50057,#880E4F);
+    color: #FFFFFF;
+    font-family: 'Century Gothic';
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+}
+
+.bi-backspace {
+    margin-right: 10px;
+}
+
+.bi-share-fill {
+    margin-right: 10px;
+}
+
+.registers-icon {
+    width: 200px;
+    margin-bottom: 25px;
+}
+
+table {
+    font-family: 'Century Gothic';
+    font-style: initial;
+    font-weight: normal;
+}
